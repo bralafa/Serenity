@@ -77,9 +77,9 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">A Walk In Courage</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image02.jpg', title : '<div class="slide-content">A Step In Faith</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">A Path To Recovery</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Courage</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image02.jpg', title : '<div class="slide-content">Faith</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">Recovery</div>', thumb : '', url : ''},
 											 
 									],
 									
