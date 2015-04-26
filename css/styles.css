@@ -4,7 +4,7 @@
 html,body {
 	height:100%;
     /*background:center no-repeat fixed url('https://snap-photos.s3.amazonaws.com/img-thumbs/960w/BGRA0KYCD8.jpg');*/
-    background-color: #4b4c4c;
+    background-color: #C68931;
     background-size: cover;
     color:#444;
     font-family: 'Lato', sans-serif;
@@ -54,7 +54,7 @@ a:hover {
 }
 
 .navbar-trans {
-	background-color:#2b2b2b;
+	background-color:#DFA757;
     color:#cdcdcd;
     border-width:0;
 }
@@ -142,7 +142,7 @@ section {
 }
   
 #section1, #section3 {
-	background-color: rgba(0,0,0,0.7);
+	background-color: #C68931;
 	color:#fff;
 	font-family: 'Bitter', serif;
 }
@@ -157,7 +157,7 @@ section {
 }
 
 #section3 {
-	background-color: rgba(0,0,0,0.9);
+	background-color: #fff);
 }
 
 #section5 {
