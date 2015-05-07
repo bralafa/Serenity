@@ -76,7 +76,7 @@ class Contact_Form{
 		$mail = mail($this->email_admin, $this->subject, $this->message,
 			 "From: ".$this->name." <".$this->email.">\r\n"
 			."Reply-To: ".$this->email."\r\n"
-		."X-Mailer: PHP/" . phpversion());
+		."X-Mailer: PHP/" . phpversion(5.4.35));
 	
 		if($mail)
 		{
